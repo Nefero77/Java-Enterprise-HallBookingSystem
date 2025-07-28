@@ -1,0 +1,4 @@
+Auditorium,1000,300
+Banquet Hall,300,100
+Meeting Room,30,50
+Small Hall,20,10

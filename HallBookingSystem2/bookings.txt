@@ -1,0 +1,2 @@
+sriyesh,Meeting Room,2,100
+sriyesh,Small Hall,5,50
