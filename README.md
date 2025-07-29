@@ -40,8 +40,8 @@ Or compile via terminal:
 
 Copy
 
-javac HallBookingSystem.java
-java HallBookingSystem
+javac MainLauncher.java
+java MainLauncher
 
 
 👥 User Roles & Dashboards
