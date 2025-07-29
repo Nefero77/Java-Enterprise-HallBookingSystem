@@ -28,8 +28,9 @@ Install Java
 
 Download or Clone
 Copy
-
-git clone https://github.com/yourusername/HallBookingSystem.git
+```
+git clone https://github.com/Nefero77/Java-Enterprise-HallBookingSystem-Desktop-Application.git
+```
 Run the App
 
 Open in any Java IDE (IntelliJ, Eclipse, VS Code)
@@ -39,10 +40,11 @@ Run HallBookingSystem.java
 Or compile via terminal:
 
 Copy
-
+```
 javac MainLauncher.java
-java MainLauncher
 
+java MainLauncher
+```
 
 👥 User Roles & Dashboards
 Role	Features
