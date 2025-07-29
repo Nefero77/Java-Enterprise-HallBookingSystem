@@ -28,7 +28,7 @@ Install Java
 
 Download or Clone
 Copy
-Edit
+
 git clone https://github.com/yourusername/HallBookingSystem.git
 Run the App
 
@@ -39,22 +39,29 @@ Run HallBookingSystem.java
 Or compile via terminal:
 
 Copy
-Edit
+
 javac HallBookingSystem.java
 java HallBookingSystem
 
+
 👥 User Roles & Dashboards
 Role	Features
+
 👨‍💼 Admin	Add/delete users, manage scheduler staff, view bookings/users
+
 📋 Manager	View bookings, issues, sales, assign scheduler, update issue status
+
 🛠 Scheduler	Add/edit/delete halls, set availability/maintenance, update booking
+
 🙋‍♂️ Customer	Book/cancel halls, view availability, raise issues, update profile
 
 🖱 How to Use
 Login 🧑‍💻
 Choose your role, enter username & password.
+First Use Admin Login : admin admin123
 
 Navigate Dashboard 📊
+
 Each role sees different options (e.g., Admin can manage users, Customer can book halls).
 
 Perform Actions ✅
