@@ -22,11 +22,54 @@ Storage: At least 200 MB of free space for files and runtime.
 
 OS Compatibility: Works on Windows, macOS, or Linux (any OS that supports Java).
 
-#How to use
-1) Firstly User can initialize the MainLauncher.java program then there comse the Admin login with all access where 
- user: admin
- Password: admin123
+🚀 Getting Started
+Install Java
+➤ Install JDK 8+
 
-2) After that everyfunctionality can be used by adding users thier roles.
+Download or Clone
 
-For comprehensive guide you can read guide.txt in the repository
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/HallBookingSystem.git
+Run the App
+
+Open in any Java IDE (IntelliJ, Eclipse, VS Code)
+
+Run HallBookingSystem.java
+
+Or compile via terminal:
+
+bash
+Copy
+Edit
+javac HallBookingSystem.java
+java HallBookingSystem
+👥 User Roles & Dashboards
+Role	Features
+👨‍💼 Admin	Add/delete users, manage scheduler staff, view bookings/users
+📋 Manager	View bookings, issues, sales, assign scheduler, update issue status
+🛠 Scheduler	Add/edit/delete halls, set availability/maintenance, update booking
+🙋‍♂️ Customer	Book/cancel halls, view availability, raise issues, update profile
+
+🖱 How to Use
+Login 🧑‍💻
+Choose your role, enter username & password.
+
+Navigate Dashboard 📊
+Each role sees different options (e.g., Admin can manage users, Customer can book halls).
+
+Perform Actions ✅
+
+📅 Book or cancel halls
+
+🧾 View bookings or issues
+
+🔧 Set hall maintenance
+
+✉️ Raise or resolve issues
+
+💾 Data Storage
+User and booking data are stored in .txt files (e.g., users.txt, bookings.txt).
+
+No database required.
