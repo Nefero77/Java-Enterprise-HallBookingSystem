@@ -27,8 +27,6 @@ Install Java
 ➤ Install JDK 8+
 
 Download or Clone
-
-bash
 Copy
 Edit
 git clone https://github.com/yourusername/HallBookingSystem.git
@@ -40,11 +38,11 @@ Run HallBookingSystem.java
 
 Or compile via terminal:
 
-bash
 Copy
 Edit
 javac HallBookingSystem.java
 java HallBookingSystem
+
 👥 User Roles & Dashboards
 Role	Features
 👨‍💼 Admin	Add/delete users, manage scheduler staff, view bookings/users
