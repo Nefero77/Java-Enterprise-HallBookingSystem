@@ -27,7 +27,7 @@ Install Java
 ➤ Install JDK 8+
 
 Download or Clone
-Copy
+
 ```
 git clone https://github.com/Nefero77/Java-Enterprise-HallBookingSystem-Desktop-Application.git
 ```
@@ -39,7 +39,6 @@ Run HallBookingSystem.java
 
 Or compile via terminal:
 
-Copy
 ```
 javac MainLauncher.java
 
